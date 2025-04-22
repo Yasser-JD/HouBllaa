@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="8dp">
+
+    <!-- Timeline Dot -->
+    <View
+        android:id="@+id/viewTimelineDot"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/timeline_dot"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- Vertical Line connecting dots -->
+    <View
+        android:id="@+id/viewTimelineLine"
+        android:layout_width="2dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="2dp"
+        android:background="#E0E0E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@id/viewTimelineDot"
+        app:layout_constraintStart_toStartOf="@id/viewTimelineDot"
+        app:layout_constraintTop_toBottomOf="@id/viewTimelineDot" />
+
+    <!-- Week Title -->
+    <TextView
+        android:id="@+id/tvWeekTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@id/viewTimelineDot"
+        app:layout_constraintTop_toTopOf="@id/viewTimelineDot"
+        android:text="Week 1" />
+
+    <!-- Week Description -->
+    <TextView
+        android:id="@+id/tvWeekDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="16dp"
+        android:lineSpacingExtra="2dp"
+        android:textColor="#666666"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/viewTimelineDot"
+        app:layout_constraintTop_toBottomOf="@id/tvWeekTitle"
+        android:text="This first week is actually your menstrual period. Because your expected birth date (EDD or EDB) is calculated from the first day of your last period." />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

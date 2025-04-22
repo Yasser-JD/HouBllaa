@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HouBlaa</string>
+    
+    <!-- Navigation Labels -->
+    <string name="title_home">الرئيسية</string>
+    <string name="title_calendar">التقويم</string>
+    <string name="title_timeline">الجدول الزمني</string>
+    <string name="title_settings">الإعدادات</string>
+    
+    <!-- Home Fragment -->
+    <string name="week_label">الأسبوع %1$d</string>
+    <string name="days_left">%1$d يوم متبقي</string>
+    <string name="baby_size">حجم الطفل مثل %1$s</string>
+    <string name="tip_of_the_day">نصيحة اليوم</string>
+    <string name="save_note">حفظ الملاحظة</string>
+    <string name="update_note">تحديث الملاحظة</string>
+    <string name="note_hint">كيف تشعرين اليوم؟</string>
+    <string name="no_events">لا توجد أحداث قادمة</string>
+    
+    <!-- Calendar Fragment -->
+    <string name="events_for_date">أحداث ليوم %1$s</string>
+    <string name="no_events_for_date">لا توجد أحداث لهذا اليوم</string>
+    <string name="add_event">إضافة حدث</string>
+    
+    <!-- Timeline Fragment -->
+    <string name="timeline_title">الجدول الزمني للحمل</string>
+    <string name="current_week">الأسبوع الحالي: %1$d</string>
+    <string name="second_trimester">الثلث الثاني</string>
+    <string name="first_trimester">الثلث الأول</string>
+    <string name="third_trimester">الثلث الثالث</string>
+    
+    <!-- Settings Fragment -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="language_label">اللغة</string>
+    <string name="appearance_label">المظهر</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="account_label">الحساب</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="app_version">Houblaa v1.0.0</string>
+
+    <!-- Authentication Screens -->
+    <string name="welcome_to_houblaa">مرحبًا بك في HouBlaa</string>
+    <string name="login_subtitle">رفيقك طوال رحلة الحمل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="register_now">سجل الآن</string>
+    <string name="create_account">إنشاء حساب</string>
+    <string name="register_subtitle">انضمي إلى آلاف الأمهات الحوامل</string>
+    <string name="register">تسجيل</string>
+    <string name="already_have_account">لديك حساب بالفعل؟</string>
+    <string name="login_now">تسجيل الدخول الآن</string>
+    <string name="onboarding_image">صورة الترحيب</string>
+    <string name="skip">تخطي</string>
+    <string name="next">التالي</string>
+    <string name="get_started">البدء</string>
+    <string name="complete_your_profile">أكمل ملفك الشخصي</string>
+    <string name="profile_setup_subtitle">دعنا نخصص تجربة متابعة الحمل لك</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="pregnancy_information">معلومات الحمل</string>
+    <string name="i_know_my_due_date">أعرف موعد الولادة</string>
+    <string name="i_know_my_last_period">أعرف موعد آخر دورة شهرية</string>
+    <string name="i_know_my_conception_date">أعرف تاريخ الحمل</string>
+    <string name="due_date">موعد الولادة</string>
+    <string name="last_period_date">تاريخ آخر دورة شهرية</string>
+    <string name="conception_date">تاريخ الحمل</string>
+    <string name="select_date">اختر التاريخ</string>
+    <string name="additional_information">معلومات إضافية</string>
+    <string name="height_cm">الطول (سم)</string>
+    <string name="weight_kg">الوزن (كجم)</string>
+    <string name="this_is_my_first_pregnancy">هذا هو حملي الأول</string>
+    <string name="save_and_continue">حفظ ومتابعة</string>
+
+    <!-- Onboarding -->  
+    <string name="onboarding_title_1">تتبعي حملك</string>
+    <string name="onboarding_description_1">تابعي نمو طفلك أسبوعًا بأسبوع مع تحديثات وتصورات مفصلة</string>
+    <string name="onboarding_title_2">راقبي صحتك</string>
+    <string name="onboarding_description_2">تتبعي مؤشرات صحتك والأعراض والمزاج طوال فترة الحمل</string>
+    <string name="onboarding_title_3">مواعيد مهمة</string>
+    <string name="onboarding_description_3">لا تفوتي أي موعد مع تكامل التقويم ونظام التذكير</string>
+    <string name="onboarding_title_4">رحلة مخصصة</string>
+    <string name="onboarding_description_4">احصلي على نصائح مصممة خصيصًا لمرحلة الحمل واحتياجاتك</string>
+
+    <!-- Error messages -->  
+    <string name="email_required">البريد الإلكتروني مطلوب</string>
+    <string name="password_required">كلمة المرور مطلوبة</string>
+    <string name="password_length">يجب أن تتكون كلمة المرور من 6 أحرف على الأقل</string>
+    <string name="confirm_password_required">يرجى تأكيد كلمة المرور</string>
+    <string name="passwords_not_match">كلمات المرور غير متطابقة</string>
+    <string name="registration_successful">تم التسجيل بنجاح</string>
+    <string name="email_already_in_use">عنوان البريد الإلكتروني مستخدم بالفعل</string>
+    <string name="invalid_email">عنوان بريد إلكتروني غير صالح</string>
+    <string name="registration_failed">فشل التسجيل</string>
+    <string name="invalid_password">كلمة مرور غير صالحة</string>
+    <string name="user_not_found">المستخدم غير موجود</string>
+    <string name="login_failed">فشل تسجيل الدخول</string>
+    <string name="error_checking_profile">خطأ في التحقق من الملف الشخصي</string>
+    <string name="email_for_reset">الرجاء إدخال بريدك الإلكتروني لإعادة تعيين كلمة المرور</string>
+    <string name="password_reset_sent">تم إرسال بريد إلكتروني لإعادة تعيين كلمة المرور. تحقق من صندوق الوارد الخاص بك</string>
+    <string name="password_reset_failed">فشل إرسال بريد إعادة تعيين كلمة المرور</string>
+    <string name="name_required">الاسم مطلوب</string>
+    <string name="date_required">التاريخ مطلوب</string>
+    <string name="user_not_authenticated">المستخدم غير مصادق</string>
+    <string name="profile_saved">تم حفظ الملف الشخصي بنجاح</string>
+    <string name="profile_save_failed">فشل حفظ الملف الشخصي: </string>
+</resources>

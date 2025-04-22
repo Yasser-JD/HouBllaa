@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom attributes for DotLottieAnimation widget -->
+    <declare-styleable name="DotLottieAnimation">
+        <attr name="autoplay" format="boolean" />
+        <attr name="loop" format="boolean" />
+        <attr name="speed" format="float" />
+        <attr name="useFrameInterpolation" format="boolean" />
+    </declare-styleable>
+</resources>

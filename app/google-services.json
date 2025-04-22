@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553732331254",
+    "project_id": "houblaa-1c3d7",
+    "storage_bucket": "houblaa-1c3d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553732331254:android:eee7bcabe6da9232c87ed7",
+        "android_client_info": {
+          "package_name": "com.jdcoding.houbllaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553732331254-2582ila0642mq6chqi5ffcdkqkjl8r7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jdcoding.houbllaa",
+            "certificate_hash": "3c28f12ef103fe5fc2ae7ce5ec6df86f8f5cb6a9"
+          }
+        },
+        {
+          "client_id": "553732331254-fvcaj34n2tflgei4tri23k10bv55ppaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYj-8rs1QygRLB7bpbVEv-Tv7AmrFdT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553732331254-fvcaj34n2tflgei4tri23k10bv55ppaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

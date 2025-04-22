@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">HouBlaa</string>
+    
+    <!-- Navigation Labels -->
+    <string name="title_home">Home</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_timeline">Timeline</string>
+    <string name="title_settings">Settings</string>
+    
+    <!-- Home Fragment -->
+    <string name="week_label">Week %1$d</string>
+    <string name="days_left">%1$d days to go</string>
+    <string name="baby_size">Baby is the size of %1$s</string>
+    <string name="tip_of_the_day">Tip of the Day</string>
+    <string name="save_note">Save Note</string>
+    <string name="update_note">Update Note</string>
+    <string name="note_hint">How are you feeling today?</string>
+    <string name="no_events">No upcoming events</string>
+    
+    <!-- Calendar Fragment -->
+    <string name="events_for_date">Events for %1$s</string>
+    <string name="no_events_for_date">No events for this date</string>
+    <string name="add_event">Add Event</string>
+    
+    <!-- Timeline Fragment -->
+    <string name="timeline_title">Pregnancy Timeline</string>
+    <string name="current_week">Current Week: %1$d</string>
+    <string name="second_trimester">Second Trimester</string>
+    <string name="first_trimester">First Trimester</string>
+    <string name="third_trimester">Third Trimester</string>
+    
+    <!-- Settings Fragment -->
+    <string name="settings_title">Settings</string>
+    <string name="language_label">Language</string>
+    <string name="appearance_label">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="account_label">Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="app_version">Houblaa v1.0.0</string>
+    
+    <!-- Language Options -->
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Français</item>
+        <item>العربية</item>
+    </string-array>
+    
+    <!-- Mood Options -->
+    <string-array name="mood_options">
+        <item>Happy</item>
+        <item>Tired</item>
+        <item>Excited</item>
+        <item>Worried</item>
+        <item>Calm</item>
+        <item>Energetic</item>
+        <item>Emotional</item>
+    </string-array>
+
+    <!-- Authentication Screens -->
+<string name="welcome_to_houblaa">Welcome to HouBlaa</string>
+<string name="login_subtitle">Your companion through the pregnancy journey</string>
+<string name="email">Email</string>
+<string name="password">Password</string>
+<string name="confirm_password">Confirm Password</string>
+<string name="forgot_password">Forgot Password?</string>
+<string name="login">Login</string>
+<string name="no_account">Don\'t have an account?</string>
+<string name="register_now">Register Now</string>
+<string name="create_account">Create Account</string>
+<string name="register_subtitle">Join thousands of expectant mothers</string>
+<string name="register">Register</string>
+<string name="already_have_account">Already have an account?</string>
+<string name="login_now">Login</string>
+<string name="onboarding_image">Onboarding Image</string>
+<string name="skip">Skip</string>
+<string name="next">Next</string>
+<string name="get_started">Get Started</string>
+<string name="complete_your_profile">Complete Your Profile</string>
+<string name="profile_setup_subtitle">Let us personalize your pregnancy tracking experience</string>
+<string name="full_name">Full Name</string>
+<string name="pregnancy_information">Pregnancy Information</string>
+<string name="i_know_my_due_date">I know my due date</string>
+<string name="i_know_my_last_period">I know my last period date</string>
+<string name="i_know_my_conception_date">I know my conception date</string>
+<string name="due_date">Due Date</string>
+<string name="last_period_date">Last Period Date</string>
+<string name="conception_date">Conception Date</string>
+<string name="select_date">Select Date</string>
+<string name="additional_information">Additional Information</string>
+<string name="height_cm">Height (cm)</string>
+<string name="weight_kg">Weight (kg)</string>
+<string name="this_is_my_first_pregnancy">This is my first pregnancy</string>
+<string name="save_and_continue">Save and Continue</string>
+
+<!-- Onboarding -->  
+<string name="onboarding_title_1">Track Your Pregnancy</string>
+<string name="onboarding_description_1">Follow your baby\'s growth week by week with detailed updates and visualizations</string>
+<string name="onboarding_title_2">Monitor Health</string>
+<string name="onboarding_description_2">Keep track of your health metrics, symptoms, and moods throughout your pregnancy</string>
+<string name="onboarding_title_3">Important Dates</string>
+<string name="onboarding_description_3">Never miss an appointment with our calendar integration and reminder system</string>
+<string name="onboarding_title_4">Personalized Journey</string>
+<string name="onboarding_description_4">Get tips and advice tailored to your specific pregnancy stage and needs</string>
+
+<!-- Error messages -->  
+<string name="email_required">Email is required</string>
+<string name="password_required">Password is required</string>
+<string name="password_length">Password must be at least 6 characters</string>
+<string name="confirm_password_required">Please confirm your password</string>
+<string name="passwords_not_match">Passwords do not match</string>
+<string name="registration_successful">Registration successful</string>
+<string name="email_already_in_use">Email address is already in use</string>
+<string name="invalid_email">Invalid email address</string>
+<string name="registration_failed">Registration failed</string>
+<string name="invalid_password">Invalid password</string>
+<string name="user_not_found">User not found</string>
+<string name="login_failed">Login failed</string>
+<string name="error_checking_profile">Error checking profile</string>
+<string name="email_for_reset">Please enter your email for password reset</string>
+<string name="password_reset_sent">Password reset email sent. Check your inbox</string>
+<string name="password_reset_failed">Failed to send password reset email</string>
+<string name="name_required">Name is required</string>
+<string name="date_required">Date is required</string>
+<string name="user_not_authenticated">User not authenticated</string>
+<string name="profile_saved">Profile saved successfully</string>
+<string name="profile_save_failed">Failed to save profile: </string>
+</resources>

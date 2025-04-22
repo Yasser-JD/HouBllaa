@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HouBlaa</string>
+    
+    <!-- Navigation Labels -->
+    <string name="title_home">Accueil</string>
+    <string name="title_calendar">Calendrier</string>
+    <string name="title_timeline">Chronologie</string>
+    <string name="title_settings">Paramètres</string>
+    
+    <!-- Home Fragment -->
+    <string name="week_label">Semaine %1$d</string>
+    <string name="days_left">%1$d jours restants</string>
+    <string name="baby_size">Bébé a la taille d\'un %1$s</string>
+    <string name="tip_of_the_day">Conseil du jour</string>
+    <string name="save_note">Enregistrer la note</string>
+    <string name="update_note">Mettre à jour la note</string>
+    <string name="note_hint">Comment vous sentez-vous aujourd\'hui?</string>
+    <string name="no_events">Aucun événement à venir</string>
+    
+    <!-- Calendar Fragment -->
+    <string name="events_for_date">Événements pour %1$s</string>
+    <string name="no_events_for_date">Aucun événement pour cette date</string>
+    <string name="add_event">Ajouter un événement</string>
+    
+    <!-- Timeline Fragment -->
+    <string name="timeline_title">Chronologie de la grossesse</string>
+    <string name="current_week">Semaine actuelle: %1$d</string>
+    <string name="second_trimester">Deuxième trimestre</string>
+    <string name="first_trimester">Premier trimestre</string>
+    <string name="third_trimester">Troisième trimestre</string>
+    
+    <!-- Settings Fragment -->
+    <string name="settings_title">Paramètres</string>
+    <string name="language_label">Langue</string>
+    <string name="appearance_label">Apparence</string>
+    <string name="dark_mode">Mode sombre</string>
+    <string name="account_label">Compte</string>
+    <string name="sign_out">Déconnexion</string>
+    <string name="app_version">Houblaa v1.0.0</string>
+
+    <!-- Authentication Screens -->
+    <string name="welcome_to_houblaa">Bienvenue sur HouBlaa</string>
+    <string name="login_subtitle">Votre compagnon tout au long de votre grossesse</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="forgot_password">Mot de passe oublié?</string>
+    <string name="login">Connexion</string>
+    <string name="no_account">Vous n\'avez pas de compte?</string>
+    <string name="register_now">Inscrivez-vous</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="register_subtitle">Rejoignez des milliers de futures mamans</string>
+    <string name="register">S\'inscrire</string>
+    <string name="already_have_account">Vous avez déjà un compte?</string>
+    <string name="login_now">Connectez-vous</string>
+    <string name="onboarding_image">Image d\'accueil</string>
+    <string name="skip">Passer</string>
+    <string name="next">Suivant</string>
+    <string name="get_started">Commencer</string>
+    <string name="complete_your_profile">Complétez votre profil</string>
+    <string name="profile_setup_subtitle">Personnalisons votre suivi de grossesse</string>
+    <string name="full_name">Nom complet</string>
+    <string name="pregnancy_information">Informations sur la grossesse</string>
+    <string name="i_know_my_due_date">Je connais ma date d\'accouchement</string>
+    <string name="i_know_my_last_period">Je connais la date de mes dernières règles</string>
+    <string name="i_know_my_conception_date">Je connais ma date de conception</string>
+    <string name="due_date">Date d\'accouchement</string>
+    <string name="last_period_date">Date des dernières règles</string>
+    <string name="conception_date">Date de conception</string>
+    <string name="select_date">Sélectionner la date</string>
+    <string name="additional_information">Informations supplémentaires</string>
+    <string name="height_cm">Taille (cm)</string>
+    <string name="weight_kg">Poids (kg)</string>
+    <string name="this_is_my_first_pregnancy">C\'est ma première grossesse</string>
+    <string name="save_and_continue">Enregistrer et continuer</string>
+
+    <!-- Onboarding -->  
+    <string name="onboarding_title_1">Suivez votre grossesse</string>
+    <string name="onboarding_description_1">Suivez la croissance de votre bébé semaine par semaine avec des mises à jour détaillées</string>
+    <string name="onboarding_title_2">Surveillez votre santé</string>
+    <string name="onboarding_description_2">Gardez une trace de vos indicateurs de santé, symptômes et humeurs tout au long de votre grossesse</string>
+    <string name="onboarding_title_3">Dates importantes</string>
+    <string name="onboarding_description_3">Ne manquez jamais un rendez-vous grâce à notre calendrier et système de rappel</string>
+    <string name="onboarding_title_4">Parcours personnalisé</string>
+    <string name="onboarding_description_4">Obtenez des conseils adaptés à votre stade de grossesse et à vos besoins spécifiques</string>
+
+    <!-- Error messages -->  
+    <string name="email_required">L\'email est requis</string>
+    <string name="password_required">Le mot de passe est requis</string>
+    <string name="password_length">Le mot de passe doit comporter au moins 6 caractères</string>
+    <string name="confirm_password_required">Veuillez confirmer votre mot de passe</string>
+    <string name="passwords_not_match">Les mots de passe ne correspondent pas</string>
+    <string name="registration_successful">Inscription réussie</string>
+    <string name="email_already_in_use">Cette adresse email est déjà utilisée</string>
+    <string name="invalid_email">Adresse email invalide</string>
+    <string name="registration_failed">Échec de l\'inscription</string>
+    <string name="invalid_password">Mot de passe invalide</string>
+    <string name="user_not_found">Utilisateur non trouvé</string>
+    <string name="login_failed">Échec de la connexion</string>
+    <string name="error_checking_profile">Erreur lors de la vérification du profil</string>
+    <string name="email_for_reset">Veuillez entrer votre email pour réinitialiser le mot de passe</string>
+    <string name="password_reset_sent">Email de réinitialisation du mot de passe envoyé. Vérifiez votre boîte de réception</string>
+    <string name="password_reset_failed">Échec de l\'envoi de l\'email de réinitialisation</string>
+    <string name="name_required">Le nom est requis</string>
+    <string name="date_required">La date est requise</string>
+    <string name="user_not_authenticated">Utilisateur non authentifié</string>
+    <string name="profile_saved">Profil enregistré avec succès</string>
+    <string name="profile_save_failed">Échec de l\'enregistrement du profil: </string>
+</resources>
