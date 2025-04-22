@@ -18,7 +18,7 @@ HouBlaa is a comprehensive pregnancy tracking mobile application designed to acc
 
 <p align="center">
   <img src="Presentation/dashboard01.png" width="200" alt="Home Screen"/>
-  <img src="Presentation/timeline01.png" width="200" alt="Timeline Screen"/>
+  <img src="Presentation/timeline.png" width="200" alt="Timeline Screen"/>
   <img src="Presentation/calendar01.png" width="200" alt="Calendar Screen"/>
   <img src="Presentation/settings.png" width="200" alt="settings Screen"/>
 </p>
